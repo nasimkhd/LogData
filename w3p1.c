@@ -1,12 +1,3 @@
-/*
-    ==================================================
-    Workshop #3 (Part-1):
-    ==================================================
-    Name   : Nasim Khodapanah
-    ID     : 131929200
-    Email  : nkhodapanah@myseneca.ca
-    Section: NGG
-*/
 
 #include <stdio.h>
 #define MIN_YEAR 2010
